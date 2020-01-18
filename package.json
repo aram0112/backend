@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "HSA Backend",
   "main": "app.js",
+  "scripts": {
+    "start": "backend/app.js"
+  },
   "author": "Abhay Ram",
   "license": "MIT",
   "dependencies": {
